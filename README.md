@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kada49&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readm
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kada49&count_private=true&theme=gruvbox&show_icons=true)
